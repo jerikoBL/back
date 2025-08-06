@@ -1,0 +1,9 @@
+uce\edu\web\repository\EstudianteRepoImpl.class
+uce\edu\web\service\mapper\EstudianteMapper.class
+uce\edu\web\service\IEstududianteService.class
+uce\edu\web\repository\modelo\Estudiante.class
+uce\edu\web\service\EstudianteServiceImpl.class
+uce\edu\web\service\to\EstudianteCompletoTo.class
+uce\edu\web\controller\EstudianteController.class
+uce\edu\web\repository\IEstudianteRepo.class
+uce\edu\web\service\to\EstudianteTo.class
